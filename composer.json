@@ -1,5 +1,5 @@
 {
-    "name": "mjohnson/transit",
+    "name": "fingoweb/transit",
     "type": "library",
     "description": "A file uploader with support for validation, image transformation and remote transportation.",
     "keywords": [
